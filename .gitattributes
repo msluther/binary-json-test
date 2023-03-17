@@ -1,3 +1,4 @@
 package-lock.json binary
 root.json binary
 files/**/*.json binary
+files/**/*.jon binary

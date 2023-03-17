@@ -1,4 +1,4 @@
-package-lock.json binary
-root.json binary
-files/**/*.json binary
-files/**/*.jon binary
+package-lock.json binary linguist-generated=true
+root.json binary linguist-generated=true
+files/**/*.json binary linguist-generated=true
+files/**/*.jon binary linguist-generated=true

@@ -1,0 +1,22 @@
+{
+  "name": "binary-json-test",
+  "version": "1.0.0",
+  "description": "nothing really, a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msluther/binary-json-test.git"
+  },
+  "author": "Michael Luther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msluther/binary-json-test/issues"
+  },
+  "homepage": "https://github.com/msluther/binary-json-test#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
